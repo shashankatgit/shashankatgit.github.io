@@ -1,4 +1,4 @@
-# shashankatgit.github.io : My personal webpage
+# Personal webpage
 
 This repository is a modified version of the GResume repo at : https://github.com/gndx/GResume
 Credits and my gratitude to the creator.
